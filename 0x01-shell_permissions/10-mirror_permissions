@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --director hello olleh
+chmod --director olleh hello
